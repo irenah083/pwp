@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Profit With Purpose",
-    "currentPage": "about.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -769,7 +769,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Drop us a line",
           "form": {
-            "action": "profitwithpurpose@gmail.com",
+            "action": "profitwithpurposeuva@gmail.com",
             "alerts": {
               "success": "Thanks for filling out the form! We'll be in touch soon."
             },
