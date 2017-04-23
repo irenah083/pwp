@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Profit With Purpose",
-    "currentPage": "index.html",
+    "currentPage": "exec.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -519,7 +519,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -536,11 +537,13 @@
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/rzRgJGbZ0Gg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
@@ -550,7 +553,7 @@
             "showButtons": false
           },
           "title": "MEET EXEC",
-          "text": "Learn more about our executive board for the 2017-2018 academic year.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {

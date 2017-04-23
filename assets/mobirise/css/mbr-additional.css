@@ -595,7 +595,8 @@ h6,
   color: #c0a375!important;
 }
 #header5-d .mbr-section-title {
-  color: #000;
+  color: #ffffff;
+  text-align: left;
 }
 #header5-d .mbr-section-lead {
   color: #9c9a9a;
