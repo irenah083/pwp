@@ -615,6 +615,9 @@ h6,
 #header5-d .mbr-section-lead {
   color: #9c9a9a;
 }
+#gallery3-9 .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
