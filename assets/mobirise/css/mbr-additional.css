@@ -547,6 +547,10 @@ h6,
 #content5-w .mbr-section-title {
   text-align: center;
 }
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -895,20 +899,6 @@ h6,
 #features7-13 .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
-}
-#header3-15 .mbr-section-title,
-#header3-15 .mbr-section-subtitle {
-  text-align: center;
-}
-#features7-16 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-16 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
-}
-#features7-16 P {
-  text-align: center;
 }
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
