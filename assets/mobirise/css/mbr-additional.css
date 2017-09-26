@@ -612,15 +612,9 @@ h6,
 #menu-s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header5-d .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
-}
-#header5-d .mbr-section-lead {
-  color: #9c9a9a;
-}
-#gallery3-9 .mbr-gallery-item > div > span {
-  text-align: center;
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n p {
+  color: #fff;
 }
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
