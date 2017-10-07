@@ -894,6 +894,17 @@ h6,
   background-color: #c0a375;
   border-color: #c0a375;
 }
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-1o .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1o .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
